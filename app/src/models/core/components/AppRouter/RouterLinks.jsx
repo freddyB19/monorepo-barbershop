@@ -7,7 +7,6 @@ import Spinner from 'react-bootstrap/Spinner'
 import Navbar from 'react-bootstrap/Navbar'
 
 
-import { useUserContext } from "@auth/hooks"
 import { RouterPath } from "@core/utils/RouterPath"
 import { deleteToken, serviceLogout } from "@auth/services"
 import {Notification} from "@root/utils/components/notifications"
@@ -101,7 +100,7 @@ export const RouterLinks = ({user, handlerUser}) => {
 				position="tc"
 				showState={showNotiError} 
 				handleState={handleErrorLogout}
-				message="Ha ocurrido un error al momento de cerrar de la sesión"
+				message="Ha ocurrido un error al momento de cerrar la sesión"
 			/>
 		    : '' 
 		}
