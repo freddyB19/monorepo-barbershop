@@ -1,0 +1,2 @@
+POST http://localhost:3001/apiv1/user/logout
+Content-Type: application/json

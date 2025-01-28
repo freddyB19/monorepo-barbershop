@@ -1,0 +1,2 @@
+GET http://localhost:3001/apiv1/barbershop
+Content-Type: application/json

@@ -1,0 +1,2 @@
+GET http://localhost:3001/apiv1/appointment
+Content-Type: application/json

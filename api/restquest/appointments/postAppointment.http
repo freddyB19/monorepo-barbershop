@@ -1,0 +1,14 @@
+POST http://localhost:3001/apiv1/appointment
+Content-Type: application/json
+
+{
+	"employee": 2,
+	"service": 1,
+	"date": "2025-08-10",
+	"time": "10:00"
+}
+
+
+# Para ejecutar esta prueba no ejecute: npm run dev
+# ya que este se ejecuta con nodemon.
+# utilice mejor npm start 
