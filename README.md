@@ -153,7 +153,7 @@ En la carpeta 📁 **api/restquest/** podrá encontrar algunas pruebas hechas pa
 
 ## Aplicación
 Para ejecutar la aplicación ejecute los siguientes comandos:
-+ Para la aplicación en React
++ Para la app de React y la app de Express
 ```node
   npm run dev:app
   # y
