@@ -165,3 +165,19 @@ Para ejecutar la aplicación ejecute los siguientes comandos:
   npm run dev
 ```
 Para una mayor compresión revisar la configuración del archivo 🗒️ **package.json** del monorepo
+
+### Login
+La aplicación no cuenta con una sección para crear usuarios, por lo tanto, para acceder solo debes **ingresar un email <ins>(Un email con formato válido)</ins> y una contraseña <ins>(Mayor a 4 caracteres)</ins>**
+
+#### Citas
++ Podrás crear citas:
+    + Eligiendo el servicio que quieres y verificado su precio.
+    + Con una persona en específico.
+    + Eligiendo la fecha y el horario.
++ Podrás ver todas tus citas creadas.
++ Ver el detalle de una cita en particular.
++ Cancelar la citas que deseas.
+
+Esto son algunos detalles que incluye, este proyecto.
+
+   
